@@ -1,1 +1,1 @@
-# A simple CV page using HTML and CSS
+# A simple personal CV page using HTML and CSS
